@@ -8,9 +8,9 @@ print(resultado_soma)
 
 ## 2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
 
-#numero = int(input("Insira um número: "))
-#resultado_resto = numero % 5
-#print("O resto da divisão por cinco é: ", resultado_resto)
+numero = int(input("Insira um número: "))
+resultado_resto = numero % 5
+print("O resto da divisão por cinco é: ", resultado_resto)
 
 ## 3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
 ## 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
