@@ -146,3 +146,12 @@ print("Resultado da igualdade:", resultado_igualdade)
 
 resultado_diferenca = (num1 != num2)
 print("Resultado da diferença:", resultado_diferenca)
+
+
+## try -except e if
+
+## 21. Conversor de temperatura
+## 22. Verificador de Palíndromo
+## 23. Calculadora simples
+## 24. Classificador de números
+## 25. Conversão de tipo com Validação
